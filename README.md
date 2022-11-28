@@ -3,3 +3,7 @@
 [Q9_b.csv](https://github.com/dipak3031/assignment-dataset/files/10089493/Q9_b.csv)
 [Cars.csv](https://github.com/dipak3031/assignment-dataset/files/10089574/Cars.csv)
 [wc-at.csv](https://github.com/dipak3031/assignment-dataset/files/10089640/wc-at.csv)
+[Cutlets.csv](https://github.com/dipak3031/assignment-dataset/files/10104104/Cutlets.csv)
+[LabTAT.csv](https://github.com/dipak3031/assignment-dataset/files/10104106/LabTAT.csv)
+[BuyerRatio.csv](https://github.com/dipak3031/assignment-dataset/files/10104108/BuyerRatio.csv)
+[Costomer+OrderForm.csv](https://github.com/dipak3031/assignment-dataset/files/10104109/Costomer%2BOrderForm.csv)
